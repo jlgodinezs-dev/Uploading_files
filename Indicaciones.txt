@@ -1,4 +1,4 @@
-Crear un directorio con el nombre de: uploads
+#Crear un directorio con el nombre de: /uploads
 #Crear virtual environment
 python -m venv venv
 #forzar políticas para activar el virtual environment
