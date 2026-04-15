@@ -1,7 +1,5 @@
 #*************************************************************************
-# Ejemplo obtenido en: 
-# https://www.youtube.com/watch?v=FFZdw7pn8OM&list=PL-2EBeDYMIbSppj2GYHnvpZ9W69qmkInS&index=6
-#
+# Dev: jlgodinezs-dev
 #*************************************************************************
 from fastapi import FastAPI, UploadFile
 from fastapi.middleware.cors import CORSMiddleware
