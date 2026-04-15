@@ -1,4 +1,4 @@
 fastapi
 python_multipart
-Jinga2
+Jinja2
 uvicorn
